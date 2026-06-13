@@ -32,3 +32,6 @@ offset_top = 20.0
 offset_right = 200.0
 offset_bottom = 60.0
 text = "Clear Scene"
+
+[node name="LampSpawner" type="MultiplayerSpawner" parent="."]
+spawn_path = NodePath("..")
