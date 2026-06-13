@@ -2,13 +2,10 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ddoas647ofqu7"
+uid="uid://cjhnhs14ta2le"
 path="res://.godot/imported/AnisotropyBarnLamp_3.png-28375f628710e224f9367eba9af26197.ctex"
 metadata={
 "vram_texture": false
-}
-generator_parameters={
-"md5": "cb10c17297a3697e5182b081cd391382"
 }
 
 [deps]
@@ -26,7 +23,7 @@ compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""

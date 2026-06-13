@@ -10,13 +10,18 @@ config_version=5
 
 [application]
 
-config/name="object_loader"
+config/name="godot_dotnet_01"
+run/main_scene="uid://b4wagbrcu4yg7"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]
 
-project/assembly_name="object_loader"
+project/assembly_name="godot_dotnet_01"
+
+[editor]
+
+script/templates_search_path="res://"
 
 [physics]
 

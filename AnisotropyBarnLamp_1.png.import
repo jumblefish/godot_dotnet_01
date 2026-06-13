@@ -2,14 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://2xykxmx2fkbg"
+uid="uid://c3k282cphhmhq"
 path.s3tc="res://.godot/imported/AnisotropyBarnLamp_1.png-d9afdbd67909789c1a2bbdd5295de8ad.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
-}
-generator_parameters={
-"md5": "fbd958607e5d15658a4440ef9150e26a"
 }
 
 [deps]
